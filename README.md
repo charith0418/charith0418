@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @charith0418 (Charith Kalhara)
+- 🎓 BICT undergraduate at Uva Wellassa University
+- 💻 Completed NVQ Level 4 in Computer Network Technician
+- 💼 Worked as a network trainee for 6 months at the Allied Health Sciences, University of Ruhuna
+- 👀 Interested in network engineering, software development, and data science
+- 🌱 Currently learning through the Open Learning platform at the University of Moratuwa
+- 💞️ Open to collaborating on network security and cloud-based projects
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com) | [Twitter](https://www.twitter.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I’m a coffee enthusiast and passionate about solving complex network issues!
